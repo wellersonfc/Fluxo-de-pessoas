@@ -1,6 +1,5 @@
 # aula1
-
-A new Flutter project.
+Prjeto feito por mim Wellerson Carvalho em mentoria do professor Cristiano Una Contagem
 
 ## Getting Started
 
